@@ -1,7 +1,8 @@
 # RoomAllocationApp
 Room allocation application with customized number input component.
 
-#Instruction
+# Instructions
+
 1. npm install
   Download the required packages.
 2. npm start
